@@ -1,3 +1,14 @@
+## 1.12.2 (2016-08-05)
+The 'Sets' resource can now be filtered via the 'block' url parameter.
+
+###Match a block name exactly (not case sensitive):
+
+`https://api.magicthegathering.io/v1/sets?block="Battle for Zendikar"`
+
+###Match one or more block names (comma delimited, partial matching)
+
+`https://api.magicthegathering.io/v1/sets?block=zendikar,shadows`
+
 ## 1.12.1 (2016-07-25)
 Fixes issue #4
 
