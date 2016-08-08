@@ -1,3 +1,6 @@
+## 1.12.4 (2016-08-07)
+Updated legalities for Eldritch Moon
+
 ## 1.12.3 (2016-08-06)
 Game format and legality can now be filtered on.
 
