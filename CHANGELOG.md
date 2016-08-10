@@ -1,3 +1,6 @@
+## 1.12.5 (2016-08-10)
+Temporarily changed pageSize limit to 100 due to overloaded server issues.
+
 ## 1.12.4 (2016-08-07)
 Updated legalities for Eldritch Moon
 
