@@ -1,3 +1,25 @@
+## 1.13.0 (2016-08-12)
+- Minor performance improvements
+- Multiple new response headers added:
+
+1. Link: Link headers with prev, last, next, first links (when appropriate)
+2. Page-Size: The page size for the request
+3. Count: The amount of elements returned
+4. Total-Count: The total number of elements (all pages)
+5. Ratelimit-Limit: The ratelimit for a given user
+6. Ratelimit-Remaining: The number of requests left before the ratelimit is exceeded.
+
+Examples:
+
+```
+Link: <http://api.magicthegathering.io/v1/cards?page=311>; rel="last", <http://api.magicthegathering.io/v1/cards?page=2>; rel="next"
+Page-Size: 100
+Count: 100
+Total-Count: 31090
+Ratelimit-Limit: 5000
+Ratelimit-Remaining: 4999
+```
+
 ## 1.12.5 (2016-08-10)
 Temporarily changed pageSize limit to 100 due to overloaded server issues.
 
