@@ -1,3 +1,6 @@
+## 1.13.1 (2016-08-24)
+Bug fix for filtering on sets by name. Querying for sets with an apostrophe no longer returns a 500 error. Set names with an apostrophe will also no longer have two single quotes in the response.
+
 ## 1.13.0 (2016-08-12)
 - Minor performance improvements
 - Multiple new response headers added:
