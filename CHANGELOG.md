@@ -1,3 +1,16 @@
+## 1.13.3 (2016-09-10)
+The __id__ field is now supported when requesting a single card.
+
+For example, previously you could request Zurgo Helmsmasher by its multiverseid with this endpoint:
+
+`https://api.magicthegathering.io/v1/cards/386380`
+
+Now, you can also request the same card using the __id__ field:
+
+`https://api.magicthegathering.io/v1/cards/c0a202d529f57bc6e83cce412850a91dadd050d1`
+
+This is important because some cards do not have a multiverseid, but every card has an __id__. Support for multiverseid is staying in version 1 of the API, but will most likely be removed from version 2. Because of this, it is __HIGHLY RECOMMENDED__ to use the __id__ field from this point on when requesting a specific card.
+
 ## 1.13.2 (2016-08-29)
 Added sets:
 - From the Vault: Lore
