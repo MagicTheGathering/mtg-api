@@ -1,3 +1,16 @@
+## 1.13.4 (2016-09-18)
+Fields that contain arrays (like colors) can now be filtered on exactly. For example:
+
+`https://api.magicthegathering.io/v1/cards?colors="red,blue"`
+
+The request above will search for cards that ONLY have the colors Red and Blue. That is, cards with Red, Blue, and another color will not be returned.
+
+| Request | Description|
+|---------|------------|
+|`https://api.magicthegathering.io/v1/cards?colors="red,blue"` | Cards that only have the colors Red and Blue |
+|`https://api.magicthegathering.io/v1/cards?colors=red,blue` | Cards that at least have the colors Red and Blue |
+|`https://api.magicthegathering.io/v1/cards?colors=red|blue` | Cards that at least contain either Red or Blue |
+
 ## 1.13.3 (2016-09-10)
 The __id__ field is now supported when requesting a single card.
 
