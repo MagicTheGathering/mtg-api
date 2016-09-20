@@ -1,3 +1,8 @@
+## 1.13.5 (2016-09-19)
+`orderBy` query string parameter now supported. Example:
+
+`https://api.magicthegathering.io/v1/cards?set=emn&orderBy=cmc`
+
 ## 1.13.4 (2016-09-18)
 Fields that contain arrays (like colors) can now be filtered on exactly. For example:
 
