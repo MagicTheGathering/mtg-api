@@ -1,3 +1,6 @@
+## 1.14.0 (2016-09-21)
+Added Set: Kaladesh (KLD)
+
 ## 1.13.5 (2016-09-19)
 `orderBy` query string parameter now supported. Example:
 
