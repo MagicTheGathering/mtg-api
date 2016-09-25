@@ -1,3 +1,12 @@
+## 1.14.1 (2016-09-25)
+Added support for partial name matching on foreign names:
+
+Partial match:
+`https://api.magicthegathering.io/v1/cards?name=aplastacráneos&language=spanish&set=ktk`
+
+Exact match:
+`https://api.magicthegathering.io/v1/cards?name="zurgo aplastacráneos"&language=spanish&set=ktk`
+
 ## 1.14.0 (2016-09-21)
 Added Set: Kaladesh (KLD)
 
