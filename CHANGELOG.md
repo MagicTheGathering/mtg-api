@@ -1,3 +1,6 @@
+## 1.14.3 (2016-10-02)
+Fixes bug #9 - filtering by layout
+
 ## 1.14.2 (2016-10-01)
 Updated Access-Control-Expose-Headers in response to include custom headers. This should fix issues with CORS and trying to access custom headers.
 
