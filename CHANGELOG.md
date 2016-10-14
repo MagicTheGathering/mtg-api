@@ -1,3 +1,10 @@
+## 1.14.4 (2016-10-13)
+Kaladesh standard. DTK and ORI dropped from standard.
+
+*Note - this update was a bit slower due to issues with mtgjson. This update DOES introduce issues with flip cards which will have to be patched.
+
+https://github.com/mtgjson/mtgjson/issues/240
+
 ## 1.14.3 (2016-10-02)
 Fixes bug #9 - filtering by layout
 
