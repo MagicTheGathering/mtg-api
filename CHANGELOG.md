@@ -1,3 +1,10 @@
+## 1.15.0 (2016-10-14)
+New endpoint for game formats added:
+
+`https://api.magicthegathering.io/v1/formats`
+
+The 'colorIdentity' field has also been added to the Card resource.
+
 ## 1.14.4 (2016-10-13)
 Kaladesh standard. DTK and ORI dropped from standard.
 
