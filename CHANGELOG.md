@@ -1,3 +1,6 @@
+## 1.15.1 (2016-10-23)
+Fixes #14. Wizards has stopped using the Æ symbol in card names in favor of "Ae", with errata.
+
 ## 1.15.0 (2016-10-14)
 New endpoint for game formats added:
 
