@@ -1,3 +1,6 @@
+## 1.15.2 (2016-10-25)
+Fixes issue with filtering on the name of a card that contains a comma. The comma was still being recognized as a delimited, when that parameter does not allow logical AND operators, only the logical OR (|).
+
 ## 1.15.1 (2016-10-23)
 Fixes #14. Wizards has stopped using the Æ symbol in card names in favor of "Ae", with errata.
 
