@@ -1,5 +1,5 @@
 ## 1.16.0 (2016-11-16)
-Command 2016 added. (c16)
+Commander 2016 added. (c16)
 
 ## 1.15.2 (2016-10-25)
 Fixes issue with filtering on the name of a card that contains a comma. The comma was still being recognized as a delimited, when that parameter does not allow logical AND operators, only the logical OR (|).
