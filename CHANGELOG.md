@@ -1,3 +1,12 @@
+## 1.16.1 (2016-12-01)
+Added a new query parameter that allows a user to retrieve cards randomly. Examples below:
+
+#### One random card
+`https://api.magicthegathering.io/v1/cards?pageSize=1&random=true`
+
+#### 10 random rares
+`https://api.magicthegathering.io/v1/cards?pageSize=10&random=true&rarity=rare`
+
 ## 1.16.0 (2016-11-16)
 Commander 2016 added. (c16)
 
