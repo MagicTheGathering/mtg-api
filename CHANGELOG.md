@@ -1,3 +1,6 @@
+## 1.16.2 (2016-12-29)
+Fixed bug with filtering on foreign name that contains an apostrophe.
+
 ## 1.16.1 (2016-12-01)
 Added a new query parameter that allows a user to retrieve cards randomly. Examples below:
 
