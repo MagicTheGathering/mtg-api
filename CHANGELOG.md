@@ -1,3 +1,8 @@
+## 1.16.3 (2017-01-02)
+Adds ability to filter on cards that contain a specific field.
+
+For example: `https://api.magicthegathering.io/v1/cards?contains=imageUrl`
+
 ## 1.16.2 (2016-12-29)
 Fixed bug with filtering on foreign name that contains an apostrophe.
 
