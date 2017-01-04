@@ -1,3 +1,8 @@
+## 1.16.4 (2017-01-04)
+Fixes issue with using the orderBy parameter with cmc or other integer like strings (power, toughness)
+
+Adds the ability to filter sets by their type, such as core or expansion.
+
 ## 1.16.3 (2017-01-02)
 Adds ability to filter on cards that contain a specific field.
 
