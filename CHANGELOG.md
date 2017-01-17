@@ -1,3 +1,8 @@
+## 1.17.0 (2017-01-17)
+Sets Added:
+- PCA (Planchase Anthology)
+- AER (Aether Revolt)
+
 ## 1.16.4 (2017-01-04)
 Fixes issue with using the orderBy parameter with cmc or other integer like strings (power, toughness)
 
