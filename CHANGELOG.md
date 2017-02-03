@@ -1,3 +1,8 @@
+## 1.17.1 (2017-02-02)
+- Fixed CHK flip cards
+- Fixed KLD, AER block information
+- Fixed Release date for UNH
+
 ## 1.17.0 (2017-01-17)
 Sets Added:
 - PCA (Planchase Anthology)
