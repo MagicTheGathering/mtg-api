@@ -1,3 +1,6 @@
+## 1.18.0 (2017-03-20)
+Modern Masters 2017 (mm3) Released
+
 ## 1.17.1 (2017-02-02)
 - Fixed CHK flip cards
 - Fixed KLD, AER block information
