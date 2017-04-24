@@ -1,3 +1,7 @@
+## 1.19.0 (2017-04-23)
+- Duel Decks: Mind vs. Might (late)
+- Amonkhet (AKH) released
+
 ## 1.18.0 (2017-03-20)
 Modern Masters 2017 (mm3) Released
 
