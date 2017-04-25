@@ -1,3 +1,8 @@
+## 1.19.1 (2017-04-24)
+The `text` url parameter now supports logical and/or.
+
+Example: `https://api.magicthegathering.io/v1/cards?text=haste,trample,flying`
+
 ## 1.19.0 (2017-04-23)
 - Duel Decks: Mind vs. Might (late)
 - Amonkhet (AKH) released
