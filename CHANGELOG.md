@@ -1,3 +1,6 @@
+## 1.19.2 (2017-05-11)
+AKH legalities updated
+
 ## 1.19.1 (2017-04-24)
 The `text` url parameter now supports logical and/or.
 
