@@ -1,3 +1,8 @@
+## 1.20.0 (2017-07-1)
+- Hour of Devastation (HOU) released
+
+*Note - Patch coming weekend of 7/15-7/16 to address issues with split cards
+
 ## 1.19.2 (2017-05-11)
 AKH legalities updated
 
