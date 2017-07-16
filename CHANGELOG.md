@@ -1,4 +1,7 @@
-## 1.20.0 (2017-07-1)
+## 1.20.1 (2017-07-15)
+- Split cards fixed
+
+## 1.20.0 (2017-07-11)
 - Hour of Devastation (HOU) released
 
 *Note - Patch coming weekend of 7/15-7/16 to address issues with split cards
