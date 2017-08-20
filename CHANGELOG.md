@@ -1,3 +1,6 @@
+## 1.21.0 (2017-08-20)
+Can now filter on `id` and `multiverseid` via URL query parameters.
+
 ## 1.20.1 (2017-07-15)
 - Split cards fixed
 
