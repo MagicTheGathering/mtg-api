@@ -1,3 +1,6 @@
+## 1.22.0 (2017-08-25)
+Commander 2017 (C17) Added
+
 ## 1.21.0 (2017-08-20)
 Can now filter on `id` and `multiverseid` via URL query parameters.
 
