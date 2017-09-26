@@ -1,3 +1,6 @@
+## 1.23.0 (2017-09-25)
+Ixalan (XLN) Added
+
 ## 1.22.0 (2017-08-25)
 Commander 2017 (C17) Added
 
