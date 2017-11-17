@@ -1,3 +1,6 @@
+## 1.24.0 (2017-11-16)
+DDT and IMA added
+
 ## 1.23.0 (2017-09-25)
 Ixalan (XLN) Added
 
