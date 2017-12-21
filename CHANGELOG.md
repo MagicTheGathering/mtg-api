@@ -1,3 +1,6 @@
+## 1.25.0 (2017-12-20)
+Unstable and Explorers of Ixalan added
+
 ## 1.24.0 (2017-11-16)
 DDT and IMA added
 
