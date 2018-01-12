@@ -1,3 +1,6 @@
+## 1.26.0 (2018-01-11)
+Rivals of Ixalan added (RIX)
+
 ## 1.25.0 (2017-12-20)
 Unstable and Explorers of Ixalan added
 
