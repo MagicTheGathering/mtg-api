@@ -1,3 +1,7 @@
+## 1.26.1 (2018-01-29)
+- Bug fix for booster generation.
+- Bug fix for filtering on Urza's Saga.
+
 ## 1.26.0 (2018-01-11)
 Rivals of Ixalan added (RIX)
 
