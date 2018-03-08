@@ -1,3 +1,6 @@
+## 1.27.0 (2018-03-07)
+Masters 25 (A25) Added
+
 ## 1.26.1 (2018-01-29)
 - Bug fix for booster generation.
 - Bug fix for filtering on Urza's Saga.
