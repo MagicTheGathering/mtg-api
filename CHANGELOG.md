@@ -1,3 +1,7 @@
+## 1.28.0 (2018-04-18)
+- Elves vs Inventors (DDU) Added
+- Dominaria (DOM) Added
+
 ## 1.27.0 (2018-03-07)
 Masters 25 (A25) Added
 
