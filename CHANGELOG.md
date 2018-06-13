@@ -1,3 +1,6 @@
+## 1.29.0 (2018-06-12)
+- Battlebond (BBD) Added
+
 ## 1.28.0 (2018-04-18)
 - Elves vs Inventors (DDU) Added
 - Dominaria (DOM) Added
