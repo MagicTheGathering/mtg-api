@@ -1,3 +1,6 @@
+## 1.30.0 (2018-08-20)
+- Commander 2018 (C18) Added
+
 ## 1.29.0 (2018-06-12)
 - Battlebond (BBD) Added
 
