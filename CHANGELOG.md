@@ -1,5 +1,8 @@
+## 1.32.0 (2019-02-19)
+- Ravnica Guild Kit (GK2) added
+
 ## 1.31.0 (2018-09-27)
-- GRN Addeded
+- GRN Added
 
 ## 1.30.0 (2018-08-20)
 - Commander 2018 (C18) Added
