@@ -1,3 +1,6 @@
+## 1.33.0 (2019-04-27)
+- Updated with latest mtgjson files.
+
 ## 1.32.0 (2019-02-19)
 - Ravnica Guild Kit (GK2) added
 
