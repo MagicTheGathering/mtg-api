@@ -1,3 +1,7 @@
+## 1.34.0 (2019-06-16)
+- MTGJSON 4.4.1
+- Modern Horizons (MH1)
+
 ## 1.33.0 (2019-04-27)
 - Updated with latest mtgjson files.
 
