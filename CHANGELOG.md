@@ -1,3 +1,9 @@
+## 1.35.0 (2020-04-15)
+
+I apologize for missing the past few changelog entries!
+
+- MTGJSON 4.6.2: https://mtgjson.com/changelog/#_4-6-2
+
 ## 1.34.0 (2019-06-16)
 - MTGJSON 4.4.1
 - Modern Horizons (MH1)
