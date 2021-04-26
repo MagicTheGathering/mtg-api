@@ -1,3 +1,7 @@
+## 1.36.0 (2021-04-25)
+
+- Strixhaven (STX) added.
+
 ## 1.35.0 (2020-04-15)
 
 I apologize for missing the past few changelog entries!
