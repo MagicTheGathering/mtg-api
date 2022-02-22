@@ -1,3 +1,7 @@
+## 1.37.0 (2022-02-18)
+
+- Kamigawa Neon Dynasty added.
+
 ## 1.36.0 (2021-04-25)
 
 - Strixhaven (STX) added.
